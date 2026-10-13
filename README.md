@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to My project
 
 This project was built with 
 
